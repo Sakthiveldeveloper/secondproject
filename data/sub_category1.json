@@ -1,0 +1,467 @@
+[
+    {
+        "id":1,
+        "sub_category":"Anti-Diabetic"
+    },
+    {
+        "id":2,
+        "sub_category":"Anti-infectives"
+    },
+    {
+        "id":3,
+        "sub_category":"anti-malarials"
+    },
+    {
+        "id":4,
+        "sub_category":"AntiNeoplastic"
+    },
+    {
+        "id":5,
+        "sub_category":"Blood Related"
+    },
+    {
+        "id":6,
+        "sub_category":"Cardiac"
+    },
+    {
+        "id":7,
+        "sub_category":"Derma"
+    },
+    {
+        "id":8,
+        "sub_category":"Gastro intestinal"
+    },
+    {
+        "id":9,
+        "sub_category":"Gynaecological"
+    },
+    {
+        "id":10,
+        "sub_category":"Hormones"
+    },
+    {
+        "id":11,
+        "sub_category":"Neuro Cns"
+    },
+    {
+        "id":12,
+        "sub_category":"ophthal"
+    },
+    {
+        "id":13,
+        "sub_category":"ophthal otologicals"
+    },
+    {
+        "id":14,
+        "sub_category":"otologicals"
+    },
+    {
+        "id":15,
+        "sub_category":"pain Analgesics"
+    },
+    {
+        "id":16,
+        "sub_category":"Respiratory"
+    },
+    {
+        "id":17,
+        "sub_category":"Sex Stimulants Rejuvenators"
+    },
+    {
+        "id":18,
+        "sub_category":"Stomatologicals"
+    },
+    {
+        "id":19,
+        "sub_category":"Urology"
+    },
+    {
+        "id":20,
+        "sub_category":"Vaccines"
+    },
+    {
+        "id":21,
+        "sub_category":"Vitamins Mineral Nutients"
+    },
+    
+    
+    
+    {
+        "id":22,
+        "sub_category":"BOOST YOUR IMMUNITY"
+    },
+    {
+        "id":23,
+        "sub_category":"MASKS"
+    },
+    {
+        "id":24,
+        "sub_category":"PULSE OXIMETER"
+    },
+    {
+        "id":25,
+        "sub_category":"SANITIZERS & HANDWASH PRODUCTS"
+    },
+    {
+        "id":26,
+        "sub_category":"THERMOMETER"
+    },
+    {
+        "id":27,
+        "sub_category":"DISINFECTANTS"
+    },
+    {
+        "id":28,
+        "sub_category":"CHYAWANPRASH"
+    },
+    {
+        "id":29,
+        "sub_category":"TATA 1mg heath products"
+    },
+    {
+        "id":30,
+        "sub_category":"summer Essentials"
+    },
+    {
+        "id":31,
+        "sub_category":"Trending products"
+    },
+    {
+        "id":32,
+        "sub_category":"Explore something new"
+    },
+    {
+        "id":33,
+        "sub_category":"buymore save more"
+    },
+    {
+        "id":34,
+        "sub_category":"vacination"
+    },
+    {
+        "id":35,
+        "sub_category":"minimum 30%"
+    },
+    {
+        "id":36,
+        "sub_category":"combos"
+    },
+    {
+        "id":37,
+        "sub_category":"deal of the day"
+    },
+    {
+        "id":38,
+        "sub_category":"Top brands"
+    },
+    {
+        "id":39,
+        "sub_category":"vitamines and supplements"
+    },
+    {
+        "id":40,
+        "sub_category":"nutrional drink"
+    },
+    {
+        "id":41,
+        "sub_category":"Health and food drinks"
+    },
+    {
+        "id":42,
+        "sub_category":"protein supplement"
+    },
+    {
+        "id":43,
+        "sub_category":"omega and fish oil"
+    },
+    {
+        "id":44,
+        "sub_category":"Immunity Booster"
+    },
+    {
+        "id":45,
+        "sub_category":"specialty supplements"
+    },
+    {
+        "id":46,
+        "sub_category":"weight management"
+    },
+    {
+        "id":47,
+        "sub_category":"Devices"
+    },
+    {
+        "id":48,
+        "sub_category":"Diabetic medicines"
+    },
+    {
+        "id":49,
+        "sub_category":"sugar substitues"
+    },
+    {
+        "id":50,
+        "sub_category":"Diabetic diet"
+    },
+    {
+        "id":51,
+        "sub_category":"Diabetic Foot Health"
+    },
+    {
+        "id":52,
+        "sub_category":"Masks"
+    },
+    {
+        "id":53,
+        "sub_category":"BP monitor"
+    },
+    {
+        "id":54,
+        "sub_category":"Nebuliziers&vaporizers"
+    },
+    {
+        "id":55,
+        "sub_category":"vital signs monitors& wearbles"
+    },
+    {
+        "id":56,
+        "sub_category":"oxygen concentrators&cans"
+    },
+    {
+        "id":57,
+        "sub_category":"sexual wellness"
+    },
+    {
+        "id":58,
+        "sub_category":"skincare"
+    },
+    {
+        "id":59,
+        "sub_category":"babycare"
+    },
+    {
+        "id":60,
+        "sub_category":"Haircare"
+    },
+    {
+        "id":61,
+        "sub_category":"Elderlycare"
+    },
+    {
+        "id":62,
+        "sub_category":"Womencare"
+    },
+    {
+        "id":63,
+        "sub_category":"Mancare"
+    },
+    {
+        "id":64,
+        "sub_category":"OralCare"
+    },
+    {
+        "id":65,
+        "sub_category":"petcare"
+    },
+    {
+        "id":66,
+        "sub_category":"stomuch care"
+    },
+    {
+        "id":67,
+        "sub_category":"Heartcare"
+    },
+    {
+        "id":68,
+        "sub_category":"Bone&joint and muslecare"
+    },
+    {
+        "id":69,
+        "sub_category":"painrelife"
+    },
+    {
+        "id":70,
+        "sub_category":"Eyecare"
+    },
+    {
+        "id":71,
+        "sub_category":"EarCare"
+    },
+    {
+        "id":72,
+        "sub_category":"FirstAit"
+    },
+    {
+        "id":73,
+        "sub_category":"Livercare"
+    },
+    {
+        "id":74,
+        "sub_category":"cold&cough"
+    },
+    {
+        "id":75,
+        "sub_category":"fever"
+    },
+    {
+        "id":76,
+        "sub_category":"mental wellness"
+    },
+    {
+        "id":77,
+        "sub_category":"kidneycare"
+    },
+    {
+        "id":78,
+        "sub_category":"Respiratory care"
+    },
+    {
+        "id":79,
+        "sub_category":"Piles,Fissure&Fistula"
+    },
+    {
+        "id":80,
+        "sub_category":"smoking cessation"
+    },
+    {
+        "id":81,
+        "sub_category":"Ayurvedha Top brand"
+    },
+    {
+        "id":82,
+        "sub_category":"Herbs"
+    },
+    {
+        "id":83,
+        "sub_category":"unani medicine"
+    },
+    {
+        "id":84,
+        "sub_category":"Natural skin&hair care"
+    },
+    {
+        "id":85,
+        "sub_category":"homopaty top brands"
+    },
+    {
+        "id":86,
+        "sub_category":"homopaty wellness combo"
+    },
+    {
+        "id":87,
+        "sub_category":"homopathy medicine"
+    },
+    {
+        "id":88,
+        "sub_category":"homopaty popular category"
+    },
+    {
+        "id":89,
+        "sub_category":"At Home"
+    },
+    {
+        "id":90,
+        "sub_category":"At Lab"
+    },
+    {
+        "id":91,
+       "sub_category":"Gentral Physician"
+    },
+    {
+        "id":92,
+       "sub_category":"Skin and Hair specialist"
+    },
+    {
+        "id":93,
+       "sub_category":"sexolgist"
+    },
+    {
+        "id":94,
+       "sub_category":"Gyneocologist"
+    },
+    {
+        "id":95,
+       "sub_category":"Bone and join specialist"
+    },
+    {
+        "id":96,
+       "sub_category":"Derma care bye kaya"
+    },
+    {
+        "id":97,
+       "sub_category":"ear noise throat specilist"
+    },
+    {
+        "id":98,
+       "sub_category":"Pathologist"
+    },
+    {
+        "id":99,
+       "sub_category":"Dietician"
+    },
+    {
+        "id":100,
+       "sub_category":"psychologist"
+    },
+    {
+        "id":101,
+       "sub_category":"Gentral Physician"
+    },
+    {
+        "id":102,
+       "sub_category":"Dentist"
+    },
+    {
+        "id":103,
+       "sub_category":"psychiatrist"
+    },
+    {
+        "id":104,
+       "sub_category":"urologist"
+    },
+    {
+        "id":105,
+       "sub_category":"Homepathy"
+    },
+    {
+        "id":106,
+       "sub_category":"Ayurveda"
+    },
+    {
+        "id":107,
+       "sub_category":"Child specialist"
+    },
+    {
+        "id":108,
+       "sub_category":"Physiotherapist"
+    },
+    {
+        "id":109,
+       "sub_category":"Neurologist"
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

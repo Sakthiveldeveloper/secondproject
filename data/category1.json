@@ -1,0 +1,51 @@
+[
+    {
+        
+        "id":1,
+        "category":"Therapeutic classes(All medicines)"
+    },
+    {
+        "id":2,
+        "category":"COVID Test&Prevention"
+    },
+    {
+        "id":3,
+        "category":"Featured"
+    },
+    {
+        "id":4,
+        "category":"Fitness&Supplements"
+    },
+    {
+        "id":5,
+        "category":"Diabetes"
+    },
+    {
+        "id":6,
+        "category":"HealthcareDevices"
+    },
+    {
+        "id":7,
+        "category":"PersonalCare"
+    },
+    {
+        "id":8,
+        "category":"HealthConditions"
+    },
+    {
+        "id":9,
+        "category":"AyurvedaProducts"
+    },
+    {
+        "id":10,
+        "category":"Homopathy"
+    },
+    {
+       "id":11,
+       "category":"LapTest"
+    },
+    {
+        "id":12,
+        "category":"Ask Doctor"
+    }
+]

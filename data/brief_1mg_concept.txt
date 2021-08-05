@@ -1,0 +1,393 @@
+1mg
+
+Hello Sir,
+
+1.Overview:
+
+ 	i would like to make one e-commerce business website
+also like as amazon, flip kart but This  sell only particular Domain Medical Industries products  .That call 1mg.com
+	This 1mg provide all Medical supplements and Health oriented products. it is help to old age patients and who New in city .This 1mg help  to find medicine and get without going Medical shop delivery you medicine in your door step.
+	1mg merchandise medical shops and have delivery  to  customers in door step. and they follow good rules about medicine delivery they needed prescription for medicines.
+
+1mg have 3 parts
+	part -->A 
+		medicine(Pharmacy)
+	part -->B 
+		laptests
+	part -->C
+		ask you docter(Doctor consultations)
+
+
+
+						part-A(medicine)
+
+2.pages:
+	Search page(Home page)-->list page(Product listing) --> Details page(full details about product) --> cart page(show what you add on cart)  --> payment method(choose of payment) --> order page(choose of address)
+
+
+Extra activity
+	open page show banner(show offer banner)
+	weekly blog about medicine
+	poster on main page(based on customer problem(that easily customer get what they need)
+
+	
+3.Details about pages
+a) Search page---> Home page (show the over all category)
+
+		1. poster(show problem solution easily find product or product category)
+		2.banner(show offers-->show which category today have offer and discount)
+		3.then category wise important(trust brand)
+		4.category and subcategory(mostly paid-show which section was mostly buy customer (like every climate session customer need different medicine)
+		5.Header&Footer(this two have all over website because customer quick access)
+			A. Header
+show 1mgs major main category(means variant of services)
+				1.medicine
+				2.labtest
+				3.Ask doctor
+			and login& sign, offer, cart, quick search box based on location wise, prescription upload box, then show 	our category
+
+			B. Footer
+			show full details about 1mg, what is 1mg  what they do, where they do, what kind of offer  they give, show how much buyers and how much location they serve and hoe much product serve, 					download app link, and show ours policy, ours services, social media links,, app getting links, and show know more about our 1mg, 
+
+b) list page---> listed the product based on what you search on home page
+		1.Filter(left side)
+			category
+			Brands
+			Product Tag
+			discount
+			Product Form 
+			uses
+		2.Show the product(what you search on Home page, show 40 each and show over all product page wise)
+c) Details Page ---> Show briefly detailed on product based on what you choose the product in list page  
+		A. show the overall details about product 
+			1.image
+			2.price
+			3.package size(variants of package on there like pack of 2, pack of 3)
+			4.product highlight
+			5.combo pack offer(shows combo packs offer like 1 have high prize but pack three have 20 percentage 				discount)
+			6.Info about product 
+				key of ingredients
+				key benefits
+				direction of use
+				safety information
+ 			7.Rating&review	
+			8.Similary products
+			9.customer who’s buy also with product data list(recommend products)
+			10.Manufeaturing Details
+		B. cart
+			show how actual prize 
+			show what discount
+			show how many quantity you choose
+			then add cart button
+
+d) cart page --->
+		1.show what you show to add on cart
+			prize
+			quantity and quantity plus or minimize option
+			remove option
+		2.show recent viewed product
+		3.show special discount products
+		4.careplan
+		apply coupon
+		price check
+		Discount prize
+		what you buy 
+		what you save
+		delivery location
+		check out button
+
+
+
+e)payment page -->
+		1.show choices of payment
+			Net banking
+				various banks details
+		2.cards
+			chooses of card(VISA, Master card)
+				chooses of bank wise card(like SBI,HDFC,Canara)
+		3.UPI option
+		
+f)order page -->
+
+		1.show what kind of address you have in you account and Maybe you need to add anything newly
+		2.after complete order show 
+			recent viewed product
+			recent viewed category
+			recent offers
+			return to home page
+
+		order tracking page
+		contact
+		subscribe News latter
+		option for go to blog site
+		Home page	
+
+
+
+
+
+
+
+							part-B(Laptest)
+
+2.pages:
+	Search page(Home page)-->list page(Product listing) --> Details page(full details about product) --> cart page(show what you add on cart)  --> payment method(choose of payment) --> order page(choose of address)
+
+
+search page
+		a)Header
+			show 1mgs major main category(means variant of services)
+				1.medicine
+				2.labtest
+				3.Ask doctor
+			and login& sign, offer, cart, quick search box based on location wise, prescription upload box,
+		b)Poster
+			show what kind of package we have . help to choose good one and easily get customer
+		  laptest comfort from home
+			detailede explain how we provide home test plan,
+			how much service we provide
+		  and popular package button
+		
+		c)book laptest section
+			Health vist at your home
+				Glucose - Fasting
+				CBC
+				Covid Antibody IgG (Quantitative)
+				Lipid Profile
+				Vitamin D (25-OH)
+				COVID-RTPCR
+			vist a near lab
+				SG Whole Abdomen
+				X - Ray Chest PA View
+				ECG
+				MRI Brain
+				HRCT CHEST - Plain
+				CECT Whole Abdomen
+
+		d)Featured package(show the package of test)
+			
+				1)popular package(show which is most customer chooseing tests)
+					comprehensive full body check up(Include 88 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					Monsoon special package(Include 54 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					Good health package(Include 58 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+				2)good health()
+					Good health package(Include 58 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					Good health advance package(Include 55 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					Good health premium package(Include 69 Tests)
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+				3)Diabetic
+					(show package based on lap wise maybe different price compare one lab to another)
+					Diabetic package
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					diabetic panel.basic
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					lipid diabetic monitoring
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+						compare now button
+				4)full body check up
+					comprehensive full body package
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					good health package
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					women wellness package
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+				5)comprehensive health
+				6)covid
+					Post covid check up
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					covid home care
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					chronic fever package
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+				7)fever
+				8)women health
+					women well ness basic
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					women wellness advance
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+					women wellness primium
+						name of package
+						show how many  test include
+						rating
+						show which category test and how many include on this package
+						prie and discount
+						add to cart button
+						compare now button
+				9)senior citizen check up
+
+
+		e)Featured laps(show brands of lap and easily customer choice )
+				Tata laps
+				throcare
+				mahajon imagjino
+
+		f)about 1mg labs
+		G)satisfied partners
+		h)1mg app download link
+		i)1mg lab booking contact
+
+		j)Footer
+			same as medicine(Part A) part
+
+
+2.List page(show thw list of lab what you choose on the home page)
+		a)Header
+			what shows on the Home page
+
+		b)show list of laps
+			lap name
+			which certificat they have(like ISO)
+			show how much people before choose this lap
+			rating
+			prize
+			dicount
+			show package(similar about same labs why we give because customer choose this they have receive huge 				amount discount)
+
+		c)Test suggestion based on what kind of lap you choose
+
+		d)Test information
+			show what choose this test
+			what need to pre request of the test
+
+		e)Frequnetly booked together(smilair like what test you choose)
+			Name of the tests
+		f)Footer
+			what shows on the Home page
+3. Details page(full details about product)
+
+		a)Header
+			what shows on the Home page
+
+		b)name of the test
+			showing the details
+				show how much test include
+				what you need to provide for the test
+				whos take this test(gender different)
+			test prevention
+
+		c)overview
+		d)Tests include
+		e)about the lab(more info about lab,)
+		f)review
+		g)available another lab for similar package with prize
+		h)Go to cart button
+
+
+		i)Footer
+
+4.cart page(show what you add on cart)  --> 5.payment method(choose of payment) --> 6.order page(choose of address)
+
+this 4,5,6 page also same as medicine(Part-A) page
+
+
+
+						Part-c(Ask your Doctor)
+
+
+		
