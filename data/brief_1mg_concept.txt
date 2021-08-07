@@ -387,7 +387,65 @@ this 4,5,6 page also same as medicine(Part-A) page
 
 
 
-						Part-c(Ask your Doctor)
+						
+					Part-C(Ask your Doctor)
+
+2.pages
+
+		Search page(Home page)-->Health care assitant
+
+
+Search page(Home page)
+	
+		a)Header
+		
+		b)Type Query
+			show how much doctors we have. how to clear you query
+			example
+				i have fever
+				i have stomach pain
+			consult now button
+		c)poster(package about doctor consulting)
+		d)hat with our specialist
+			Gentrel Physician
+			Skin and Hair specialist
+			sexolgist
+			Gyneocologist
+			Bone and join specialist
+			Derma care bye kaya
+			ear noise throat specilist
+			Pathologist
+			Dietician
+			psychologist
+			Gentral Physician
+			Dentist
+			psychiatrist
+			urologist
+			Homepathy
+			Ayurveda
+			Child specialist
+			Physiotherapist
+			Neurologist
+
+		e)How online consultion work
+			brief explain about how online consultant working
+				start a session
+				tell about what you troubleing
+				connect with doctors
+				follow up with your doctor
+
+
+		f)FAQ
+		g)are you a doctor join button?
+		h)Footer
+Extra activity
+	open page show banner(show offer banner)
+	weekly blog about medicine
+	poster on main page(based on customer problem(that easily customer get what they need)
+
+
+Note:
+	 am just write what am learn just based on 1mg.com .maybe some content missing but i have try my best in developing 1 mg real
 
 
 		
